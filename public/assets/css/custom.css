@@ -1,0 +1,21 @@
+table thead  tr{
+    background-color: #5cb85c !important;
+}
+table thead  tr th  {
+    text-align: center !important;
+    color: white !important;
+}
+table tbody  tr td  {
+    text-align: center !important;
+    color: white !important;
+}
+div.dataTables_wrapper div.dataTables_filter input{
+    color:white !important;
+}
+div.dataTables_wrapper div.dataTables_length select{
+    color:white !important;
+}
+
+.mt-27{
+    margin-top: 27px !important;
+}
